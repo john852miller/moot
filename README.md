@@ -1,2 +1,2 @@
 # moot
-website for learning 
+website for learning purpose
